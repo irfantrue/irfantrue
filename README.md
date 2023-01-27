@@ -8,7 +8,7 @@ I am a new graduate, looking for my first job as a Backend Developer
 
 *   🌍  I'm based in Jakarta, Indonesia
 *   ✉️  You can contact me at [irfansusilo88@gmail.com](mailto:irfansusilo88@gmail.com)
-*   🧠  I'm learning Javascript, Nodejs, Expressjs
+*   🧠  I'm learning Javascript, Nodejs, Expressjs, MYSQL, Mongodb
 
 ### Skills 
 
