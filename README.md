@@ -4,7 +4,6 @@ Hi 👋 My name is Irfan Nurul Susilo
 Backend Developer
 -----------------
 
-I am a new graduate, looking for my first job as a Backend Developer
 
 *   🌍  I'm based in Jakarta, Indonesia
 *   ✉️  You can contact me at [irfansusilo88@gmail.com](mailto:irfansusilo88@gmail.com)
