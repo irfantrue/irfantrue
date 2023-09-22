@@ -1,3 +1,8 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/irfantrue/count.svg" />
+</p>
+
 ```yaml
 version: 1
 
