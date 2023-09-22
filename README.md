@@ -29,6 +29,10 @@ social:
   gmail: irfansusilo88@gmail.com
   linkedin: https://www.linkedin.com/in/irfan-nurul-susilo-904854211
   github: https://www.github.com/irfantrue
+
+learning:
+  - Go
+  - Rust
 ```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfantrue&hide_progress=true)
