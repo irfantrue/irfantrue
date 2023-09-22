@@ -1,8 +1,3 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/irfantrue/count.svg" />
-</p>
-
 ```yaml
 version: 1
 
@@ -35,3 +30,7 @@ social:
   linkedin: https://www.linkedin.com/in/irfan-nurul-susilo-904854211
   github: https://www.github.com/irfantrue
 ```
+<p align="center"> 
+  Thanks to visit my profile<br>
+  <img src="https://profile-counter.glitch.me/irfantrue/count.svg" />
+</p>
