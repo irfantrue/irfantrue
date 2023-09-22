@@ -34,6 +34,7 @@ learning:
   - Go
   - Rust
 ```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfantrue&layout=compact)
 
 <p align="center"> 
   Thanks to visit my profile<br>
