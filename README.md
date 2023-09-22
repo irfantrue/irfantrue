@@ -1,27 +1,32 @@
-Hi 👋 My name is Irfan Nurul Susilo
-===================================
+```yaml
+version: 1
 
-Backend Developer
------------------
+profile:
+  identity:
+    name: Irfan Nurul Susilo
+  address:
+    country: Indonesia
+    province: DKI Jakarta
+    city: Jakarta Timur
+    district: Ciracas
+  job:
+    - Backend Developer
 
+skills:
+  language:
+    - JavaScript
+    - TypeScript
+  db:
+    - MongoDB
+    - MySQL
+    - MariaDB
+  tools:
+    - git
+  lib:
+    - express
 
-*   🌍  I'm based in Jakarta, Indonesia
-*   ✉️  You can contact me at [irfansusilo88@gmail.com](mailto:irfansusilo88@gmail.com)
-*   🧠  I'm learning JavaScript, NodeJS, ExpressJS, MySQL, MongoDB
-
-### Skills 
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-</p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/irfantrue" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/irfan-nurul-susilo-904854211/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfantrue&layout=compact)
+social:
+  gmail: irfansusilo88@gmail.com
+  linkedin: https://www.linkedin.com/in/irfan-nurul-susilo-904854211
+  github: https://www.github.com/irfantrue
+```
