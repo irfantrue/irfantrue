@@ -35,8 +35,6 @@ learning:
   - Rust
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfantrue&hide_progress=true)
-
 <p align="center"> 
   Thanks to visit my profile<br>
   <img src="https://profile-counter.glitch.me/irfantrue/count.svg" />
