@@ -30,6 +30,9 @@ social:
   linkedin: https://www.linkedin.com/in/irfan-nurul-susilo-904854211
   github: https://www.github.com/irfantrue
 ```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfantrue&hide_progress=true)
+
 <p align="center"> 
   Thanks to visit my profile<br>
   <img src="https://profile-counter.glitch.me/irfantrue/count.svg" />
