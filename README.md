@@ -21,19 +21,24 @@ learning:
   - Go
   - Rust
 ```
-<p align="center" title="Fluent">
+
+<h3 align="center">
+  Fluent
+</h3>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,typescript,bun,redis,mongodb,MySQL-Light,sequelize,expressjs" />
+    <img src="https://skillicons.dev/icons?i=git,linux,nodejs,typescript,bun,redis,mongodb,mysql,sequelize,expressjs" />
   </a>
 </p>
 
-<p align="center" title="Interest">
+<h3 align="center">
+  Interest
+</h3>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=rust,go,docker,kubernetes,rabbitmq" />
   </a>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfantrue&layout=compact)
 
 <p align="center"> 
   Thanks to visit my profile<br>
