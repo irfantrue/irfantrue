@@ -36,7 +36,7 @@ learning:
 ```
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,typescript,bun,redis,mongodb,mysql,mariadb,expressjs,elysia" />
+    <img src="https://skillicons.dev/icons?i=git,nodejs,typescript,bun,redis,mongodb,MySQL,sequelize,expressjs" />
   </a>
 </p>
 
