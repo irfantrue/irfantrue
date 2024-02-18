@@ -12,19 +12,6 @@ profile:
   job:
     - Backend Developer
 
-skills:
-  language:
-    - JavaScript
-    - TypeScript
-  db:
-    - MongoDB
-    - MySQL
-    - MariaDB
-  tools:
-    - git
-  lib:
-    - express
-
 social:
   gmail: irfansusilo88@gmail.com
   linkedin: https://www.linkedin.com/in/irfan-nurul-susilo-904854211
@@ -34,9 +21,15 @@ learning:
   - Go
   - Rust
 ```
-<p align="center">
+<p align="center" title="Fluent">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,nodejs,typescript,bun,redis,mongodb,MySQL-Light,sequelize,expressjs" />
+  </a>
+</p>
+
+<p align="center" title="Interest">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,go,docker,kubernetes" />
   </a>
 </p>
 
