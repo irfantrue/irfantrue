@@ -32,7 +32,14 @@ social:
 
 learning:
   - Go
+  - Rust
 ```
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,nodejs,typescript,bun,redis,mongodb,mysql,mariadb,expressjs,elysia" />
+  </a>
+</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfantrue&layout=compact)
 
 <p align="center"> 
