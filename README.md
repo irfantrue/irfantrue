@@ -36,7 +36,7 @@ learning:
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go,docker,kubernetes,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=rust,go,docker,kubernetes,rabbitmq,graphql" />
   </a>
 </p>
 
