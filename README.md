@@ -8,7 +8,6 @@ profile:
     country: Indonesia
     province: DKI Jakarta
     city: Jakarta Timur
-    district: Ciracas
   job:
     - Backend Developer
 
