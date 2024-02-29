@@ -6,9 +6,7 @@ profile:
     name: Irfan Nurul Susilo
   address:
     country: Indonesia
-    province: DKI Jakarta
-    city: Jakarta Timur
-  job:
+  role:
     - Backend Developer
 
 social:
