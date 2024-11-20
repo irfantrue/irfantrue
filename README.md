@@ -24,7 +24,7 @@ tools = ["Git"]
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,nodejs,typescript,bun,redis,mongodb,mysql,sequelize,expressjs" />
+    <img src="https://skillicons.dev/icons?i=git,linux,nodejs,js,typescript,bun,redis,mongodb,mysql,sequelize,expressjs,elysia" />
   </a>
 </p>
 
