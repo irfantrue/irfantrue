@@ -1,22 +1,22 @@
-```yaml
-version: 1
+```TOML
+title = "Bio"
 
-profile:
-  identity:
-    name: Irfan Nurul Susilo
-  address:
-    country: Indonesia
-  role:
-    - Backend Developer
+[personal]
+name = "Irfan Nurul Susilo"
+role = "Backend Developer"
+location = "Indonesia"
 
-social:
-  gmail: irfansusilo88@gmail.com
-  linkedin: https://www.linkedin.com/in/irfan-nurul-susilo-904854211
-  github: https://www.github.com/irfantrue
+[contact]
+email = "irfansusilo88@gmail.com"
+linkedin = "https://linkedin.com/in/irfansusilo"
+github = "https://github.com/irfantrue"
 
-learning:
-  - Go
-  - Rust
+[skills]
+languages = ["JavaScript", "TypeScript"]
+runtime = ["Node.js", "Bun"]
+frameworks = ["Express.js", "ElysiaJS", "Socket.IO", "Sequelize", "Mongoose", "Drizzle"]
+databases = ["MySQL", "MongoDB", "Redis", "MariaDB"]
+tools = ["Git"]
 ```
 
 <h3 align="center">
