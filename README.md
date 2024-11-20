@@ -33,7 +33,7 @@ tools = ["Git"]
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go" />
+    <img src="https://skillicons.dev/icons?i=go,rust" />
   </a>
 </p>
 
