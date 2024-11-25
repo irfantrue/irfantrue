@@ -36,8 +36,3 @@ tools = ["Git"]
     <img src="https://skillicons.dev/icons?i=go,rust" />
   </a>
 </p>
-
-<p align="center"> 
-  Thanks to visit my profile<br>
-  <img src="https://profile-counter.glitch.me/irfantrue/count.svg" />
-</p>
