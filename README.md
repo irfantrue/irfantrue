@@ -20,7 +20,7 @@ tools = ["Git"]
 ```
 
 <h3 align="center">
-  Fluent
+  Skills
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,11 +28,3 @@ tools = ["Git"]
   </a>
 </p>
 
-<h3 align="center">
-  Interest
-</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,zig" />
-  </a>
-</p>
