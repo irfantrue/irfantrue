@@ -7,7 +7,7 @@ role = "Backend Developer"
 location = "Indonesia"
 
 [contact]
-email = "irfansusilo88@gmail.com"
+email = "irfan.nurul.susilo@proton.me"
 linkedin = "https://linkedin.com/in/irfansusilo"
 github = "https://github.com/irfantrue"
 
