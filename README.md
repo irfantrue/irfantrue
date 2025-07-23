@@ -4,7 +4,7 @@ I'm a passionate Software Engineer specializing in Backend Development, dedicate
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,nodejs,js,typescript,go,bun,redis,mongodb,mysql,sequelize,expressjs,elysia,docker" />
+    <img src="https://skillicons.dev/icons?i=git,linux,nodejs,js,typescript,go,bun,redis,mongodb,mysql,sequelize,expressjs,elysia,docker,rabbitmq" />
   </a>
 </p>
 
